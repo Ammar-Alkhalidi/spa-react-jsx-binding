@@ -1,0 +1,1 @@
+# spa-react-jsx-binding
